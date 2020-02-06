@@ -9,5 +9,27 @@
         "workAddress": "",
         "eMail": "",
         "title": ""
+    },
+    {
+        "ssn": "",
+        "name": "",
+        "surname": "",
+        "gender": "",
+        "phoneNumber": "",
+        "homeAdress": "",
+        "workAddress": "",
+        "eMail": "",
+        "title": ""
+    }, {
+        "ssn": "",
+        "name": "",
+        "surname": "",
+        "gender": "",
+        "phoneNumber": "",
+        "homeAdress": "",
+        "workAddress": "",
+        "eMail": "",
+        "title": ""
     }
+    
 ]
